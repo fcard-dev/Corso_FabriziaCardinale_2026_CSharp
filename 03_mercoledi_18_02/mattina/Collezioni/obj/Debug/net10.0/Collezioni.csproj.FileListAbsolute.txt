@@ -1,0 +1,14 @@
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\bin\Debug\net10.0\Collezioni.exe
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\bin\Debug\net10.0\Collezioni.deps.json
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\bin\Debug\net10.0\Collezioni.runtimeconfig.json
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\bin\Debug\net10.0\Collezioni.dll
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\bin\Debug\net10.0\Collezioni.pdb
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\obj\Debug\net10.0\Collezioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\obj\Debug\net10.0\Collezioni.AssemblyInfoInputs.cache
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\obj\Debug\net10.0\Collezioni.AssemblyInfo.cs
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\obj\Debug\net10.0\Collezioni.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\obj\Debug\net10.0\Collezioni.dll
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\obj\Debug\net10.0\refint\Collezioni.dll
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\obj\Debug\net10.0\Collezioni.pdb
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\obj\Debug\net10.0\Collezioni.genruntimeconfig.cache
+C:\Users\fabri\Desktop\corso c#\03_mercoledi_18_02\mattina\Collezioni\obj\Debug\net10.0\ref\Collezioni.dll

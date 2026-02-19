@@ -1,0 +1,14 @@
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\bin\Debug\net10.0\HelloWorld.exe
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\bin\Debug\net10.0\HelloWorld.deps.json
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\bin\Debug\net10.0\HelloWorld.runtimeconfig.json
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\bin\Debug\net10.0\HelloWorld.dll
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\bin\Debug\net10.0\HelloWorld.pdb
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\obj\Debug\net10.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfoInputs.cache
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\obj\Debug\net10.0\HelloWorld.AssemblyInfo.cs
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\obj\Debug\net10.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\obj\Debug\net10.0\HelloWorld.dll
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\obj\Debug\net10.0\refint\HelloWorld.dll
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\obj\Debug\net10.0\HelloWorld.pdb
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
+C:\Users\fabri\Desktop\corso c#\01_lunedi_16_02\mattina\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll
