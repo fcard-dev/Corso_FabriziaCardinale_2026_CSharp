@@ -13,7 +13,7 @@ class Program
         }*/
 
         /*scrivere un programma che chieda all'utente la sua età e stampi a schermo se è maggiorenne o minorenne 
-        Console.Write("dimmi la tua età ");
+        Console.Write("dimmi la tua età ");*/
 
         const int maggiorenne = 18;
 
@@ -27,10 +27,10 @@ class Program
         else
         {
             Console.WriteLine("sei minorenne");
-        } */
+        }
 
         /*scrivere un programma che richiede all'utente il prezzo di un prodotto e applica uno sconto del 10% se il prezzo supera 100 euro. Stampare prezzo finale
-        Console.Write("dimmi il prezzo di quel prodotto ");
+        Console.Write("dimmi il prezzo di quel prodotto ");*/
         string prezzo = Console.ReadLine();
         double doublePrezzo = double.Parse(prezzo);
 
@@ -43,10 +43,10 @@ class Program
         else
         {
             Console.WriteLine($"il prezzo è {prezzo} euro");
-        } */
+        }
 
         /*scrivere un programma che chiede tre numeri interi all'utente. Se la media aritmetica dei tre numeri è maggiore o uguale a 60, stampare 
-        "hai superato la prova" altrimenti stampare "prova fallita". stampare anche il valore esatto della media
+        "hai superato la prova" altrimenti stampare "prova fallita". stampare anche il valore esatto della media*/
         Console.Write("dimmi un numero ");
         string n1 = Console.ReadLine();
         int intN1 = int.Parse(n1);
@@ -70,7 +70,7 @@ class Program
         else
         {
             Console.WriteLine($"Prova fallita MISERAMENTE con {media}");
-        } */
+        }
 
 
         /*int a = 10;
@@ -84,7 +84,7 @@ class Program
         }*/
 
 
-        /*scrivi un programma che richiede all'utente di inserire un numero intero e determini se pari o dispari
+        /*scrivi un programma che richiede all'utente di inserire un numero intero e determini se pari o dispari*/
         Console.Write("dammi un numero: ");
         string num = Console.ReadLine();
         int intNum = int.Parse(num);
@@ -96,9 +96,9 @@ class Program
         else
         {
             Console.WriteLine($"il numero {intNum} è dispari!");
-        } */
+        }
         /*crea un semplice programma che richieda all'utente di inserire una password numerica. se la password
-        corrisponde a una costante predefinita, stampa accesso consentito altrimenti stampa accesso negato
+        corrisponde a una costante predefinita, stampa accesso consentito altrimenti stampa accesso negato*/
         const int pswNum = 12345;
 
         Console.Write("inserisci una password numerica: ");
@@ -112,11 +112,11 @@ class Program
         else
         {
             Console.WriteLine("Accesso negato!");
-        } */
+        }
 
         /*realizza una calcolatrice semplificata che chieda due double e un operatore + o -. il programma deve
         effettuare l'operazione richiesta e stampare il risultato. se l'utente inserisce un operatore diverso,
-        stampare operatore non valido
+        stampare operatore non valido*/
         Console.Write("dammi un numero decimale: ");
         string n1 = Console.ReadLine();
         Console.Write("dammi un altro numero decimale: ");
@@ -138,7 +138,8 @@ class Program
         else
         {
             Console.WriteLine($"Operatore {operatore} non valido");
-        } */
+        }
+
         /*int eta = 15;
         if (eta >= 18)
                {
@@ -152,7 +153,7 @@ class Program
                }
        */
 
-        /*scrivi un programma che chieda all'utente un voto da 1 a 10 e stampi una valutatione
+        /*scrivi un programma che chieda all'utente un voto da 1 a 10 e stampi una valutatione*/
         Console.Write("dammi un voto da 1 a 10: ");
         string voto = Console.ReadLine();
         int intVoto = int.Parse(voto);
@@ -172,9 +173,9 @@ class Program
         else if (intVoto >= 9 && intVoto <= 10)
         {
             Console.WriteLine("Ottimo");
-        }*/
+        }
 
-        /*programma che calcola bmi
+        /*programma che calcola bmi*/
         Console.Write("dimmi l'altezza in metri: ");
         string h = Console.ReadLine();
         Console.Write("dimmi il peso in kg: ");
@@ -200,10 +201,10 @@ class Program
         else if (bmi >= 30)
         {
             Console.WriteLine("Obeso");
-        }*/
+        }
 
         /*scrivi un proramma che converta la temperatura inserita in celsius a un'altra scala a scelta tra
-        Fahreneit, Kelvin, Rankine. Stampa il risultato 
+        Fahreneit, Kelvin, Rankine. Stampa il risultato */
         Console.Write("dimmi i gradi in Celsius: ");
         string gradiC = Console.ReadLine();
         Console.Write("come li vuoi convertire? Scegli tra F-Fahreneit, K-Kelvin, R-Rankine: ");
@@ -222,7 +223,7 @@ class Program
         else if (gradiConv == "R")
         {
             Console.WriteLine((doubleGradiC * 1.8) + 491.67);
-        } */
+        }
         /*
                 string giorno = "lunedi";
                 switch (giorno)
@@ -238,7 +239,7 @@ class Program
                         break;
                 }
         */
-        /*programma che chiede di inserire un numero da 1 a 7 e restituisca il giorno corrispondente della settimana
+        /*programma che chiede di inserire un numero da 1 a 7 e restituisca il giorno corrispondente della settimana*/
         Console.Write("scegli un numero da 1 a 7 che corrispondono ai giorni della settimana: ");
         string g = Console.ReadLine();
 
@@ -269,9 +270,9 @@ class Program
                 Console.WriteLine("Non esistono altri giorni.");
                 break;
         }
-*/
+
         /*scrivi un programma che chieda all'utente quale figura geometrica vuole calcolare tra quadrato, cerchio e triangolo
-        quindi chiede le misure necessarie e calcola l'area corrispondente
+        quindi chiede le misure necessarie e calcola l'area corrispondente*/
 
         Console.Write("Di che figura vuoi misurare l'area? C-Cerchio, Q-quadrato o T-triangolo? ");
         string f = Console.ReadLine();
@@ -302,8 +303,8 @@ class Program
             default:
                 Console.WriteLine("Selezione errata.");
                 break;
-        }*/
-        /*extra
+        }
+        /*extra*/
         Console.Write("Scegli BG-buongiorno o BN-buonanotte: ");
         string s = Console.ReadLine();
 
@@ -329,8 +330,6 @@ class Program
                 Console.WriteLine("scelta errata");
                 break;
         }
-*/
-
 
     }
 }

@@ -7,7 +7,7 @@ class Program
 
     static void Main(string[] args)
     {
-        /* int contatore; //dichiarazione
+         int contatore; //dichiarazione
         contatore = 0; //assegnazione
         int somma = 10; //dichiarazione + inizializzazione
         var nome = "Ada";
@@ -55,7 +55,7 @@ class Program
 
         int numero1 = int.Parse(n1);
         int numero2 = int.Parse(n2);
-        Console.WriteLine($"Somma {numero1 + numero2}!");*/
+        Console.WriteLine($"Somma {numero1 + numero2}!");
 int a = 10;
 int b = 15;
         Console.WriteLine("Operatori aritmetici:");

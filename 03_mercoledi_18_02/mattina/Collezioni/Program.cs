@@ -38,7 +38,7 @@ class Program
         /*vai a creare un sistema che ti chiede di scegliere tra stringe o interi
         dopo deve selezionare quanto vuole lungo l'array da creare inserendolo a mano
         per poi far inserire X vlte una stringa o un int in base alla selezione.
-        deve stampare e poi chiedere se si vuole ripetere
+        deve stampare e poi chiedere se si vuole ripetere*/
         string scelta = "";
         bool b = true;
         while (b)
@@ -90,7 +90,7 @@ class Program
             {
                 b = false;
             }
-        }*/
+        }
 
         /*scrivi un programma che chiede all'utente di inserire una frase e utilizza 
         il foreach per contare quanti caratteri sono cifre (0-9)*/

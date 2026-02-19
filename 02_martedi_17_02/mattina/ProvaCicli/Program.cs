@@ -6,7 +6,7 @@ class Program
     static void Main(string[] args)
 
     {
-        /* bool continua = true;
+        bool continua = true;
          while (continua)
          {
              Console.WriteLine("in esecuzione");
@@ -19,11 +19,11 @@ class Program
              Console.WriteLine("Ciclo in esecuzione");
              continua2 += 1;
              Console.WriteLine(continua2);
-         } */
+         } 
 
         /*scrivi un programma che continui a chiedere all'utente di inserire numeri interi postivi.
         il programma termina quando l'utente inserisce un numero negativo e stampa la somma totale dei 
-        numeri inseriti senza contare il numero negativo
+        numeri inseriti senza contare il numero negativo*/
         int num = 1;
         int somma = 0;
         while (num > 0)
@@ -37,12 +37,12 @@ class Program
                 somma += num;
             }
         }
-        Console.WriteLine("La somma totale è " + somma); */
+        Console.WriteLine("La somma totale è " + somma); 
 
 
         /*scrivi un programma che definisca un numero segreto come costante. l'utente dovrà indovinare questo 
         numero continuando a fare tentativi finchè non lo indovina correttamente. il programma
-        risponde ogni volta indicando se il numero inserito è maggiore o minore rispetto al n.segr.
+        risponde ogni volta indicando se il numero inserito è maggiore o minore rispetto al n.segr.*/
         const int NUM_SEGR = 20;
         int prova = 0;
 
@@ -60,7 +60,7 @@ class Program
                 Console.WriteLine("numero troppo basso");
             }
         }
-        Console.WriteLine("Numero corretto"); */
+        Console.WriteLine("Numero corretto"); 
 
         /*scrivere un programma che simuli il funzionamento di un semplice sportello bancomat
         utilizzando il ciclo while per gestire un menu di operazioni finchè l'utente non decide di uscire.
@@ -69,7 +69,7 @@ class Program
         preleva denaro, esci
         -il saldo iniziale è 0
         -l'utente può ripetere le operazioni quante volte vuole, finchè non sceglie esci
-        -se si tenta di prelevare più saldo del disponibile serve messaggio di errore
+        -se si tenta di prelevare più saldo del disponibile serve messaggio di errore*/
         bool uscita = true;
         float saldo = 0;
 
@@ -121,7 +121,7 @@ class Program
                 Console.WriteLine("Scelta non valida!");
             }
         }
-        */
+        
 
         /*bool continua = true;
         do
@@ -133,7 +133,7 @@ class Program
 
         /*scrivi un programma che chieda una password numerica all'utente. 
         ha a disposizione fino a 3 tentativi. il programma termina se la password è corretta o se finiscono
-        i tentativi disponibili 
+        i tentativi disponibili */
         const int PSW = 12345;
         int tentativi = 0;
         int pswIns = 0;
@@ -154,10 +154,10 @@ class Program
                 Console.WriteLine($"Password errata, tentativi effettuati {tentativi}");
             }
         }
-        while (tentativi < 3 && pswIns != PSW); */
+        while (tentativi < 3 && pswIns != PSW);
 
         /*realizza un programma che permette all'utente di inserire numeri interi finché non inserisce lo zero. 
-        al termine stampa la somma e quanti numeri sono stati inseriti.
+        al termine stampa la somma e quanti numeri sono stati inseriti.*/
         int n;
         int somma = 0;
         int numIns = 0;
@@ -175,11 +175,11 @@ class Program
         }
         while (n != 0);
         Console.WriteLine($"Numeri inseriti: {numIns}");
-        Console.WriteLine($"Somma totale: {somma}"); */
+        Console.WriteLine($"Somma totale: {somma}"); 
 
         /*crea una calcolatrice che permette all'utente di effettuare più operazioni matematiche.
         dopo ogni operazione, il programma chiede se vuole eseguire un'altra operazione o terminare
-        string scelta;
+        string scelta;*/
         do
         {
             Console.Write("inserisci un numero: ");
@@ -212,7 +212,7 @@ class Program
             Console.Write("Vuoi fare un'altra operazione?\n S-Si;\n N-No;\n ");
             scelta = Console.ReadLine();
         }
-        while (scelta == "S"); */
+        while (scelta == "S"); 
 
         /* for (int i = 0; i < 10; i++)
          {
@@ -220,7 +220,7 @@ class Program
          } */
 
         /*scrivi un programma che chieda all'utente un numero intero e 
-        stampi la sua tabellina (moltiplicazioni da 1 a 10)
+        stampi la sua tabellina (moltiplicazioni da 1 a 10)*/
         Console.Write("Dimmi un numero intero: ");
         string n = Console.ReadLine();
         int intN = int.Parse(n);
@@ -229,10 +229,10 @@ class Program
         {
             int risultato = intN * i;
             Console.WriteLine($"{intN} x {i} = {risultato} ");
-        }*/
+        }
 
         /*scrivi un programma che chieda all'utente quanti numeri vuole inserire. il 
-        programma acquisisce i numeri e alla fine calcola e stampa la loro media
+        programma acquisisce i numeri e alla fine calcola e stampa la loro media*/
         Console.Write("Quanti numeri vuoi inserire? ");
         string scelta = Console.ReadLine();
         int intScelta = int.Parse(scelta);
@@ -247,7 +247,7 @@ class Program
 
         double tot = somma / intScelta;
         Console.WriteLine($"La media tra i numeri scelti è {tot}");
-*/
+
         /* INCOMPLETO 
         scrivi un programma che chieda all'utente un numero intero positivo e calcoli il suo fattoriale(n!).
         assicurati che l'utente inserisca un numero positivo; altrimenti messaggio di errore
@@ -268,10 +268,6 @@ class Program
             Console.WriteLine("Numero non valido.");
         } 
         */
-
-
-
-
     }
 }
 
