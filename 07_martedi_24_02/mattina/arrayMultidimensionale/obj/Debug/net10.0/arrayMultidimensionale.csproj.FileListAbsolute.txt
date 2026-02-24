@@ -1,0 +1,15 @@
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\bin\Debug\net10.0\arrayMultidimensionale.exe
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\bin\Debug\net10.0\arrayMultidimensionale.deps.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\bin\Debug\net10.0\arrayMultidimensionale.runtimeconfig.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\bin\Debug\net10.0\arrayMultidimensionale.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\bin\Debug\net10.0\arrayMultidimensionale.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\obj\Debug\net10.0\arrayMultidimensionale.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\obj\Debug\net10.0\arrayMultidimensionale.AssemblyInfoInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\obj\Debug\net10.0\arrayMultidimensionale.AssemblyInfo.cs
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\obj\Debug\net10.0\arrayMultidimensionale.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\obj\Debug\net10.0\arrayMultidimensionale.sourcelink.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\obj\Debug\net10.0\arrayMultidimensionale.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\obj\Debug\net10.0\refint\arrayMultidimensionale.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\obj\Debug\net10.0\arrayMultidimensionale.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\obj\Debug\net10.0\arrayMultidimensionale.genruntimeconfig.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\07_martedi_24_02\mattina\arrayMultidimensionale\obj\Debug\net10.0\ref\arrayMultidimensionale.dll
