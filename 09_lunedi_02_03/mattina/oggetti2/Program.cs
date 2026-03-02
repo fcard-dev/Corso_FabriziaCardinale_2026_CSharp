@@ -7,10 +7,11 @@ class Program
         //Esercizio1();
         //Esercizio2();
         //Esercizio3();
-        Esercizio4();
+        //Esercizio4();
+        Esercizio5();
     }
 
-    /* public static void Esercizio1()
+    public static void Esercizio1()
     {
         Libro l = new Libro { Titolo = "Naruto", Autore = "Jirayia", AnnoPubblicazione = 2018 };
         Console.WriteLine(l);
@@ -36,7 +37,7 @@ class Program
 
         Console.WriteLine(l3.GetHashCode());
         Console.WriteLine(l4.GetHashCode());
-    } */
+    }
 
     public static void Esercizio4()
     {
@@ -141,4 +142,83 @@ class Program
             Console.WriteLine($"Numero modifiche: {m.NrModifiche}");
         }
     }
+
+    public static void Esercizio5()
+    {
+        List<Film> film = new();
+        bool continua = true;
+        while (continua)
+        {
+            Console.WriteLine($"\nScegli tra le seguenti opzioni:");
+            Console.WriteLine($"1- Inserisci nuovo film.");
+            Console.WriteLine($"2- Stampa elenco film");
+            Console.WriteLine($"3- Ricerca per genere");
+            Console.WriteLine($"0- Esci");
+
+            int scelta = int.Parse(Console.ReadLine());
+
+            switch (scelta)
+            {
+                case 1:
+                    Console.WriteLine($"Inserisci titolo del film: ");
+                    string titolo = Console.ReadLine();
+                    Console.WriteLine($"Inserisci regista del film: ");
+                    string regista = Console.ReadLine();
+                    Console.WriteLine($"Inserisci anno: ");
+                    int anno = int.Parse(Console.ReadLine());
+                    Console.WriteLine($"Inserisci genere: ");
+                    string genere = (Console.ReadLine());
+                    Film movies = new Film
+                    {
+                        Titolo = titolo,
+                        Regista = regista,
+                        Anno = anno,
+                        Genere = genere
+                    };
+                    film.Add(movies);
+                    Console.WriteLine($"=====Film inserito.=====");
+                    break;
+                case 2:
+                    Console.WriteLine($"\nRaccolta videoteca: ");
+                    foreach (Film f in film)
+                    {
+                        Console.WriteLine($"\nTitolo: {f.Titolo}");
+                        Console.WriteLine($"Regista: {f.Regista}");
+                        Console.WriteLine($"Anno: {f.Anno}");
+                        Console.WriteLine($"Genere: {f.Genere}");
+                    }
+                    break;
+                case 3:
+                    Console.WriteLine($"Inserisci genere da cercare: ");
+                    string genereRicerca = Console.ReadLine();
+                    bool ricerca = false;
+
+                    Console.WriteLine($"\nFilm corrispondenti al genere {genereRicerca}");
+                    foreach (Film f in film)
+                    {
+                        if (f.Genere == genereRicerca)
+                        {
+                            Console.WriteLine($"\nTitolo: {f.Titolo}");
+                            Console.WriteLine($"Regista: {f.Regista}");
+                            Console.WriteLine($"Anno: {f.Anno}");
+                            Console.WriteLine($"Genere: {f.Genere}");
+                            ricerca = true;
+                        }
+                    }
+                    if (!ricerca)
+                    {
+                        Console.WriteLine($"Nessun film corrispondente a quel genere.");
+                    }
+                    break;
+                case 0:
+                    continua = false;
+                    Console.WriteLine($"=====Videoteca aggiornata.=====");
+                    break;
+                default:
+                    Console.WriteLine($"=====Scelta non consentita.=====");
+                    break;
+            }
+        }
+    }
 }
+
