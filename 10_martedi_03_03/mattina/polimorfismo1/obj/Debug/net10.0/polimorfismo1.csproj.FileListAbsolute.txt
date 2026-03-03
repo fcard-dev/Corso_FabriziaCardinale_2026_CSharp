@@ -1,0 +1,15 @@
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\bin\Debug\net10.0\polimorfismo1.exe
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\bin\Debug\net10.0\polimorfismo1.deps.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\bin\Debug\net10.0\polimorfismo1.runtimeconfig.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\bin\Debug\net10.0\polimorfismo1.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\bin\Debug\net10.0\polimorfismo1.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\obj\Debug\net10.0\polimorfismo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\obj\Debug\net10.0\polimorfismo1.AssemblyInfoInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\obj\Debug\net10.0\polimorfismo1.AssemblyInfo.cs
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\obj\Debug\net10.0\polimorfismo1.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\obj\Debug\net10.0\polimorfismo1.sourcelink.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\obj\Debug\net10.0\polimorfismo1.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\obj\Debug\net10.0\refint\polimorfismo1.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\obj\Debug\net10.0\polimorfismo1.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\obj\Debug\net10.0\polimorfismo1.genruntimeconfig.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\polimorfismo1\obj\Debug\net10.0\ref\polimorfismo1.dll
