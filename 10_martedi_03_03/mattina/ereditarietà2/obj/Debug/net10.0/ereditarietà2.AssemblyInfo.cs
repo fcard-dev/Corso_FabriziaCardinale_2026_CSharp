@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ereditarietà2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+154667d7b2b239d9ef277bb0182e22713b7de869")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88c26fa0cf3d59ef68c223b6edfc34aa5b50e609")]
 [assembly: System.Reflection.AssemblyProductAttribute("ereditarietà2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ereditarietà2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
