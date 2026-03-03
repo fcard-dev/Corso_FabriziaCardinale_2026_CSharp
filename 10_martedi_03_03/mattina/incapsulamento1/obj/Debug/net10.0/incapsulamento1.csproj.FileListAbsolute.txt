@@ -1,0 +1,15 @@
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\bin\Debug\net10.0\incapsulamento1.exe
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\bin\Debug\net10.0\incapsulamento1.deps.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\bin\Debug\net10.0\incapsulamento1.runtimeconfig.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\bin\Debug\net10.0\incapsulamento1.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\bin\Debug\net10.0\incapsulamento1.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\obj\Debug\net10.0\incapsulamento1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\obj\Debug\net10.0\incapsulamento1.AssemblyInfoInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\obj\Debug\net10.0\incapsulamento1.AssemblyInfo.cs
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\obj\Debug\net10.0\incapsulamento1.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\obj\Debug\net10.0\incapsulamento1.sourcelink.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\obj\Debug\net10.0\incapsulamento1.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\obj\Debug\net10.0\refint\incapsulamento1.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\obj\Debug\net10.0\incapsulamento1.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\obj\Debug\net10.0\incapsulamento1.genruntimeconfig.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\10_martedi_03_03\mattina\incapsulamento1\obj\Debug\net10.0\ref\incapsulamento1.dll

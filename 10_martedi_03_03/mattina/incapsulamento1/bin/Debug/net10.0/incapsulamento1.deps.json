@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "incapsulamento1/1.0.0": {
+        "runtime": {
+          "incapsulamento1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "incapsulamento1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
