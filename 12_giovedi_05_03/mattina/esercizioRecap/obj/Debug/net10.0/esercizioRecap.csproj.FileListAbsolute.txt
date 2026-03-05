@@ -1,0 +1,15 @@
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\bin\Debug\net10.0\esercizioRecap.exe
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\bin\Debug\net10.0\esercizioRecap.deps.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\bin\Debug\net10.0\esercizioRecap.runtimeconfig.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\bin\Debug\net10.0\esercizioRecap.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\bin\Debug\net10.0\esercizioRecap.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\obj\Debug\net10.0\esercizioRecap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\obj\Debug\net10.0\esercizioRecap.AssemblyInfoInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\obj\Debug\net10.0\esercizioRecap.AssemblyInfo.cs
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\obj\Debug\net10.0\esercizioRecap.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\obj\Debug\net10.0\esercizioRecap.sourcelink.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\obj\Debug\net10.0\esercizioRecap.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\obj\Debug\net10.0\refint\esercizioRecap.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\obj\Debug\net10.0\esercizioRecap.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\obj\Debug\net10.0\esercizioRecap.genruntimeconfig.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\12_giovedi_05_03\mattina\esercizioRecap\obj\Debug\net10.0\ref\esercizioRecap.dll
