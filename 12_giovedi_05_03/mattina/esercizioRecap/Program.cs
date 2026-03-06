@@ -59,14 +59,14 @@ class Program
                     }
                     break;
                 case 2:
-                    Console.WriteLine("\nSeleziona il tuo profilo dipendente:");
+                    Console.WriteLine("\nSeleziona il tuo profilo:");
                     for (int i = 0; i < dipendenti.Count; i++)
                     {
                         string badgeInfo = dipendenti[i].badge != null ? dipendenti[i].badge.Codice : "Nessun badge";
                         Console.WriteLine($"{i + 1} - {dipendenti[i].Nome} {dipendenti[i].Cognome} ({badgeInfo})");
                     }
 
-                    Console.Write("Numero dipendente: ");
+                    Console.Write("Identificativo dipendente: ");
                     int dipIdx = int.Parse(Console.ReadLine()) - 1;
 
                     if (dipIdx < 0 || dipIdx >= dipendenti.Count)
@@ -110,7 +110,6 @@ class Program
                 default:
                     Console.WriteLine($"Scelta non valida");
                     break;
-
             }
         }
     }

@@ -11,17 +11,17 @@ public class ControlliAccesso
         {
             if (p is Manager)
             {
-                log = $"{p.Nome}, {p.Cognome} (Manager) è entrato.";
+                log = $"{p.Nome} {p.Cognome} (Manager) è entrato.";
             }
             else if (p is Dipendente)
             {
-                log = $"{p.Nome}, {p.Cognome} (Dipendente) è entrato.";
+                log = $"{p.Nome} {p.Cognome} (Dipendente) è entrato.";
             }
             _accessi.Add(log);
         }
         else
         {
-            log = $"{p.Nome}, {p.Cognome} Accesso non consentito per badge non attivo.";
+            log = $"{p.Nome} {p.Cognome} Accesso non consentito per badge non attivo.";
             _accessi.Add(log);
         }
     }
