@@ -34,10 +34,10 @@ class Program
                     InserisciAnimale();
                     break;
                 case 2:
-                //    CancellaAnimale();
+                    CancellaAnimale();
                     break;
                 case 3:
-                 //   ModificaAnimale();
+                    //   ModificaAnimale();
                     break;
                 case 4:
                     VisualizzaAnimali();
@@ -101,11 +101,16 @@ class Program
 
     public static void CancellaAnimale()
     {
-
+        IndiceAnimali();
+        Console.WriteLine($"Inserisci l'indice da eliminare");
+        int idx = int.Parse(Console.ReadLine());
+        animali.RemoveAt(idx);
+        Console.WriteLine($"Animale rimosso.");
     }
 
     public static void ModificaAnimale()
     {
+        IndiceAnimali();
 
     }
 
@@ -154,4 +159,12 @@ class Program
         }
     }
 
+    public static void IndiceAnimali()
+    {
+        Console.WriteLine($"\nElenco animali");
+        for (int i = 0; i < animali.Count; i++)
+        {
+            Console.WriteLine($"{i} {animali[i].MostraInfo()}");
+        }
+    }
 }
