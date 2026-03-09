@@ -1,0 +1,15 @@
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\bin\Debug\net10.0\proveSingleton.exe
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\bin\Debug\net10.0\proveSingleton.deps.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\bin\Debug\net10.0\proveSingleton.runtimeconfig.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\bin\Debug\net10.0\proveSingleton.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\bin\Debug\net10.0\proveSingleton.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\obj\Debug\net10.0\proveSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\obj\Debug\net10.0\proveSingleton.AssemblyInfoInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\obj\Debug\net10.0\proveSingleton.AssemblyInfo.cs
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\obj\Debug\net10.0\proveSingleton.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\obj\Debug\net10.0\proveSingleton.sourcelink.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\obj\Debug\net10.0\proveSingleton.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\obj\Debug\net10.0\refint\proveSingleton.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\obj\Debug\net10.0\proveSingleton.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\obj\Debug\net10.0\proveSingleton.genruntimeconfig.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\14_lunedi_09_03\mattina\proveSingleton\obj\Debug\net10.0\ref\proveSingleton.dll
