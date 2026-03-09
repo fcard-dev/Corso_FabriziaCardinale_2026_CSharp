@@ -1,4 +1,4 @@
-public abstract class VeicoloFactory
+public static class VeicoloFactory
 {
    public static IVeicolo CreaVeicolo(string tipo)
     {
