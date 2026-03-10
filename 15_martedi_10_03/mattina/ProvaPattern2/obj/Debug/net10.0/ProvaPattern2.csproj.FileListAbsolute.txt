@@ -1,0 +1,15 @@
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\bin\Debug\net10.0\ProvaPattern2.exe
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\bin\Debug\net10.0\ProvaPattern2.deps.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\bin\Debug\net10.0\ProvaPattern2.runtimeconfig.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\bin\Debug\net10.0\ProvaPattern2.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\bin\Debug\net10.0\ProvaPattern2.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\obj\Debug\net10.0\ProvaPattern2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\obj\Debug\net10.0\ProvaPattern2.AssemblyInfoInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\obj\Debug\net10.0\ProvaPattern2.AssemblyInfo.cs
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\obj\Debug\net10.0\ProvaPattern2.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\obj\Debug\net10.0\ProvaPattern2.sourcelink.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\obj\Debug\net10.0\ProvaPattern2.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\obj\Debug\net10.0\refint\ProvaPattern2.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\obj\Debug\net10.0\ProvaPattern2.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\obj\Debug\net10.0\ProvaPattern2.genruntimeconfig.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProvaPattern2\obj\Debug\net10.0\ref\ProvaPattern2.dll
