@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProveObserver")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d61af681ea901dccf75c69f6915dee889d486c7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7100d6955d0307554859a82437dcfa7b8f0b48c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProveObserver")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProveObserver")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

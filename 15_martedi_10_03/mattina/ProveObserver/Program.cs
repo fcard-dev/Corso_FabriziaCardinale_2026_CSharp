@@ -2,8 +2,9 @@
 {
     static void Main()
     {
-       //Esercizio1();
-        Esercizio2();
+        //Esercizio1();
+        //Esercizio2();
+        Esercizio3();
     }
 
     public static void Esercizio1()
@@ -93,6 +94,55 @@
                     string notizia = Console.ReadLine();
                     Console.WriteLine($"\nNotizia aggiornata.");
                     agency.News = notizia;
+                    break;
+                case 0:
+                    continua = false;
+                    break;
+                default:
+                    Console.WriteLine($"Scelta non valida");
+                    break;
+            }
+        }
+    }
+
+    public static void Esercizio3()
+    {
+        GestoreCreazioneUtente gCU = new();
+
+        ModuloLog mLog = new();
+        ModuloMarketing mMark = new();
+
+        gCU.Registra(mLog);
+        gCU.Registra(mMark);
+
+        bool continua = true;
+
+        while (continua)
+        {
+            Console.WriteLine("\nSeleziona opzione:");
+            Console.WriteLine("1 - Inserisci nome");
+            Console.WriteLine("0 - Esci");
+            Console.Write("Scelta: ");
+            int scelta = int.Parse(Console.ReadLine());
+
+            switch (scelta)
+            {
+                case 1:
+                    bool altriNomi = true;
+                    while (altriNomi)
+                    {
+                        Console.WriteLine($"\nInserisci nuovo nome:");
+                        string nome = Console.ReadLine();
+                        Console.WriteLine($"\nNome inserito.");
+                        gCU.CreaUtente(nome);
+
+                        Console.WriteLine($"\nVuoi creare altri nomi? S/N");
+                        string risp = Console.ReadLine().ToLower();
+                        if(risp != "s")
+                        {
+                            altriNomi = false;
+                        }
+                    }
                     break;
                 case 0:
                     continua = false;

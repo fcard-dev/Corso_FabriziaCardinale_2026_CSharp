@@ -3,7 +3,7 @@ public interface INewsSubscriber
     public void Aggiorna(string messaggio);
 }
 
-public class NewsAgency
+public sealed class NewsAgency
 {
     private string _news;
     public string News
@@ -18,14 +18,14 @@ public class NewsAgency
 
     private static NewsAgency _istance = new();
 
-public static NewsAgency Istanza
+    public static NewsAgency Istanza
     {
         get => _istance;
     }
 
     private NewsAgency()
     {
-        
+
     }
 
     List<INewsSubscriber> lstSubs = new();
