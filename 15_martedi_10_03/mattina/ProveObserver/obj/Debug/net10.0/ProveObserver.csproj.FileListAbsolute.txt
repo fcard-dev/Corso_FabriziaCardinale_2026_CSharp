@@ -1,0 +1,15 @@
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\bin\Debug\net10.0\ProveObserver.exe
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\bin\Debug\net10.0\ProveObserver.deps.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\bin\Debug\net10.0\ProveObserver.runtimeconfig.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\bin\Debug\net10.0\ProveObserver.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\bin\Debug\net10.0\ProveObserver.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\obj\Debug\net10.0\ProveObserver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\obj\Debug\net10.0\ProveObserver.AssemblyInfoInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\obj\Debug\net10.0\ProveObserver.AssemblyInfo.cs
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\obj\Debug\net10.0\ProveObserver.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\obj\Debug\net10.0\ProveObserver.sourcelink.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\obj\Debug\net10.0\ProveObserver.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\obj\Debug\net10.0\refint\ProveObserver.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\obj\Debug\net10.0\ProveObserver.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\obj\Debug\net10.0\ProveObserver.genruntimeconfig.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveObserver\obj\Debug\net10.0\ref\ProveObserver.dll
