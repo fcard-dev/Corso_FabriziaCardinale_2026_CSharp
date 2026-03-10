@@ -33,9 +33,21 @@ public interface ISoggetto2
     public void Notifica(string nomeUtente);
 }
 
-public class GestoreCreazioneUtente : ISoggetto2
+public sealed class GestoreCreazioneUtente : ISoggetto2
 {
     private List<IObserver2> lstObs = new();
+
+private static GestoreCreazioneUtente _istance = new();
+
+public static GestoreCreazioneUtente Istanza
+    {
+        get => _istance;
+    }
+
+private GestoreCreazioneUtente()
+    {
+        
+    }
 
     public void Registra(IObserver2 o2)
     {

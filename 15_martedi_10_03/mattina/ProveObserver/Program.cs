@@ -107,7 +107,7 @@
 
     public static void Esercizio3()
     {
-        GestoreCreazioneUtente gCU = new();
+        GestoreCreazioneUtente gCU = GestoreCreazioneUtente.Istanza;
 
         ModuloLog mLog = new();
         ModuloMarketing mMark = new();
