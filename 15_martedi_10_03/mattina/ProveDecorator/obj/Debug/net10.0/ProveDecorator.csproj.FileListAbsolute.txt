@@ -1,0 +1,15 @@
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\bin\Debug\net10.0\ProveDecorator.exe
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\bin\Debug\net10.0\ProveDecorator.deps.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\bin\Debug\net10.0\ProveDecorator.runtimeconfig.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\bin\Debug\net10.0\ProveDecorator.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\bin\Debug\net10.0\ProveDecorator.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\obj\Debug\net10.0\ProveDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\obj\Debug\net10.0\ProveDecorator.AssemblyInfoInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\obj\Debug\net10.0\ProveDecorator.AssemblyInfo.cs
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\obj\Debug\net10.0\ProveDecorator.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\obj\Debug\net10.0\ProveDecorator.sourcelink.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\obj\Debug\net10.0\ProveDecorator.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\obj\Debug\net10.0\refint\ProveDecorator.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\obj\Debug\net10.0\ProveDecorator.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\obj\Debug\net10.0\ProveDecorator.genruntimeconfig.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\15_martedi_10_03\mattina\ProveDecorator\obj\Debug\net10.0\ref\ProveDecorator.dll
