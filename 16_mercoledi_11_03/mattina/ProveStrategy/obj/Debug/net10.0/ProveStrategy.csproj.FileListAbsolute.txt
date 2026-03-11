@@ -1,0 +1,15 @@
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\bin\Debug\net10.0\ProveStrategy.exe
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\bin\Debug\net10.0\ProveStrategy.deps.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\bin\Debug\net10.0\ProveStrategy.runtimeconfig.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\bin\Debug\net10.0\ProveStrategy.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\bin\Debug\net10.0\ProveStrategy.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\obj\Debug\net10.0\ProveStrategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\obj\Debug\net10.0\ProveStrategy.AssemblyInfoInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\obj\Debug\net10.0\ProveStrategy.AssemblyInfo.cs
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\obj\Debug\net10.0\ProveStrategy.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\obj\Debug\net10.0\ProveStrategy.sourcelink.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\obj\Debug\net10.0\ProveStrategy.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\obj\Debug\net10.0\refint\ProveStrategy.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\obj\Debug\net10.0\ProveStrategy.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\obj\Debug\net10.0\ProveStrategy.genruntimeconfig.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\16_mercoledi_11_03\mattina\ProveStrategy\obj\Debug\net10.0\ref\ProveStrategy.dll
