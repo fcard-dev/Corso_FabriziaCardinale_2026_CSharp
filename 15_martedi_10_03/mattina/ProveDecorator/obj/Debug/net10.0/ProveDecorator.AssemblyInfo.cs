@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProveDecorator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11b574d8b5d10f81bf408e2f884394858cf5cae0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3607f2a2a215799b5599063dc08969eda97fd86c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProveDecorator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProveDecorator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
