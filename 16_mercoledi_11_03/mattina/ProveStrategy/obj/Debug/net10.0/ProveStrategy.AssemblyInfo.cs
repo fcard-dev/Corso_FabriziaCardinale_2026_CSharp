@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProveStrategy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c9a82f0760dff5b243bf070b37861a7d657067e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce7433d3b1bb54e2ce42b01bcd5d801f91b509ba")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProveStrategy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProveStrategy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

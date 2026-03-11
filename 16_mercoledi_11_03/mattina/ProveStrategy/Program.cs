@@ -8,6 +8,8 @@
     public static void Esercizio1()
     {
         Calcolatrice calcolatrice = new();
+        Log log = new();
+        calcolatrice.Registra(log);
 
         Console.WriteLine($"Inserisci un numero:");
         double n1 = double.Parse(Console.ReadLine());
