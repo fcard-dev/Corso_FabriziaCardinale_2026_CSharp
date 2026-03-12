@@ -1,0 +1,15 @@
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\bin\Debug\net10.0\proveFacade.exe
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\bin\Debug\net10.0\proveFacade.deps.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\bin\Debug\net10.0\proveFacade.runtimeconfig.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\bin\Debug\net10.0\proveFacade.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\bin\Debug\net10.0\proveFacade.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\obj\Debug\net10.0\proveFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\obj\Debug\net10.0\proveFacade.AssemblyInfoInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\obj\Debug\net10.0\proveFacade.AssemblyInfo.cs
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\obj\Debug\net10.0\proveFacade.csproj.CoreCompileInputs.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\obj\Debug\net10.0\proveFacade.sourcelink.json
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\obj\Debug\net10.0\proveFacade.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\obj\Debug\net10.0\refint\proveFacade.dll
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\obj\Debug\net10.0\proveFacade.pdb
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\obj\Debug\net10.0\proveFacade.genruntimeconfig.cache
+C:\Users\fabri\Documents\GitHub\Corso_FabriziaCardinale_2026_CSharp\17_giovedi_12_03\mattina\proveFacade\obj\Debug\net10.0\ref\proveFacade.dll
