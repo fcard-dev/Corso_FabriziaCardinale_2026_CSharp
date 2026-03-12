@@ -1,6 +1,6 @@
 #region Factory
 
-//interfaccia di piatto con i metodi che devono essere implementati 
+//interfaccia di piatto con i metodi che devono essere implementati / component per decorator
 public interface IPiatto
 {
     public string Descrizione();
@@ -161,7 +161,7 @@ public class AllaGriglia : IPreparazioneStrategica
     }
 }
 
-//Singleton e Subject per Observer
+//Singleton e Subject per Observer + context strategy
 public class Chef
 {
     //singleton
@@ -241,7 +241,7 @@ public class Log1 : IObserver1
 {
     public void Aggiorna(string messaggio)
     {
-        Console.WriteLine($"Aggiornamento Log - {messaggio}");
+        Console.WriteLine($"Aggiornamento Log - Lo chef ha preparato {messaggio}");
     }
 }
 

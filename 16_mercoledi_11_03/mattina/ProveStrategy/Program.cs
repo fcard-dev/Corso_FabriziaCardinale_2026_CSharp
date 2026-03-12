@@ -67,7 +67,7 @@
 
     public static void Esercizio3()
     {
-        //singleton
+        //singleton + context strategy
         Chef chef = Chef.istanza;
         //observer
         Log1 log1 = new();
