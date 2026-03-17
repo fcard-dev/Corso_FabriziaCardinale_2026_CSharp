@@ -2,8 +2,9 @@
 {
     static void Main()
     {
-        Esercizio1();
-        Esercizio2();
+        //Esercizio1();
+        //Esercizio2();
+        Esercizio3();
     }
 
 
@@ -40,5 +41,12 @@
         }
         PaymentService service = new PaymentService(metodo);
         service.Paga(cifra);
+    }
+
+    public static void Esercizio3()
+    {
+        Printer p = new();
+        p.logger = new ConsoleLogger();
+        p.Print("Prova log");
     }
 }
